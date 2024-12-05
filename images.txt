@@ -4,5 +4,5 @@
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #--alias=mynginx
---platform=linux/arm64 --alias=postgresql:16.6.0-arm64 bitnami/postgresql:16.6.0
---platform=linux/arm64 --alias=postgresql:13.18.0-arm64 bitnami/postgresql:13.18.0
+--platform=linux/arm64 bitnami/postgresql:16.6.0
+--platform=linux/arm64 bitnami/postgresql:13.18.0
