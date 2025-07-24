@@ -40,6 +40,7 @@
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #verdaccio/verdaccio:latest
---platform=linux/arm64 hagb/docker-easyconnect:7.6.7
---platform=linux/arm64 hagb/docker-easyconnect:7.6.3
---platform=linux/arm64 hagb/docker-atrust:latest
+#--platform=linux/arm64 hagb/docker-easyconnect:7.6.7
+#--platform=linux/arm64 hagb/docker-easyconnect:7.6.3
+#--platform=linux/arm64 hagb/docker-atrust:latest
+gitlab/gitlab-ce:18.1.3-ce.0
