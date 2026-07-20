@@ -47,4 +47,5 @@
 #--platform=linux/arm64 deluan/navidrome:pr-4384
 #--platform=linux/arm64 xhongc/music_tag_web:2.5.2
 #ghcr.io/anomalyco/opencode:latest
-ghcr.io/berriai/litellm:main-latest
+#ghcr.io/berriai/litellm:main-latest
+nginx:alpine
