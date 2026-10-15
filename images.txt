@@ -56,4 +56,4 @@
 #node:24-slim
 #nginx:1.27-bookworm
 #alpine:3.20
-nginx:1.30.6-alpine3.23-perl
+nginx:1.30.6-alpine-perl
